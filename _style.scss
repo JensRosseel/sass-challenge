@@ -33,12 +33,6 @@ body {
     background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     background-attachment: fixed;
 }
-#blue{
-    @import 'blue';
-}
-#red{
-    @import 'red';
-}
 article {
     display: flex;
     flex-wrap: wrap;
